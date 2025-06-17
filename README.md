@@ -16,7 +16,7 @@ We used a variety of powerful AI frameworks — TensorFlow, PyTorch, Scikit-lear
 |--------------|----------------------------------------------------------------------|
 | **CipheredBits (Leader)** | 📌 Group leader, ethical reflection, debugging, final report writing, code review, GitHub management, presentation assembly. |
 | **YewandeMorris**       | 📘 Theoretical understanding (all theory questions + comparative analysis). |
-| **Priscillanzula**         | 🗣️ NLP with spaCy – NER and sentiment analysis on Amazon Reviews. |
+| **Priscillanzula**         | 🔊 NLP with spaCy – NER and sentiment analysis on Amazon Reviews. |
 | **Doreenmongina**        | 🌸 Classical machine learning with Scikit-learn – Iris species classification. |
 | **golibemartha**          | 🧠 CNN implementation with TensorFlow – MNIST handwritten digit recognition. |
 
