@@ -10,7 +10,7 @@ We used a variety of powerful AI frameworks — TensorFlow, PyTorch, Scikit-lear
 
 ---
 
-## 👥 Group Members & Roles
+## Group Members & Roles
 
 | Name         | Role                                                                 |
 |--------------|----------------------------------------------------------------------|
