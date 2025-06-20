@@ -16,6 +16,18 @@ iris = load_iris()
 iris_df = pd.DataFrame(iris.data, columns=iris.feature_names)
 iris_df['Species'] = iris.target  # Add target as a column for clarity
 
+# Check for missing values in the dataset
+missing_values = iris_df.isnull().sum()
+
+print("\n=== Missing Values Check ===")
+print(missing_values)
+
+# Additional interpretation
+if missing_values.sum() == 0:
+    print("\nNo missing values in the dataset.")
+else:
+    print("\nThe dataset contains missing values. Further preprocessing is needed.")
+
 # Convert species to categorical for encoding demonstration
 iris_df['Species'] = iris_df['Species'].astype('category')
 
@@ -75,6 +87,16 @@ print("\nThe Decision Tree classifier performs well on the Iris dataset, which i
 
 ```
 
+    
+    === Missing Values Check ===
+    sepal length (cm)    0
+    sepal width (cm)     0
+    petal length (cm)    0
+    petal width (cm)     0
+    Species              0
+    dtype: int64
+    
+    No missing values in the dataset.
     
     === Species after encoding ===
     Species
