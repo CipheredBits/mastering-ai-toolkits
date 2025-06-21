@@ -1,0 +1,11 @@
+review_id,original_text,original_sentiment,predicted_sentiment,confidence,products_found,brands_found,total_entities
+0,I absolutely love my new iPhone 15 Pro from Apple! The camera quality is amazing and the battery life is fantastic. Best purchase ever!,positive,positive,0.8,Iphone,Apple,2
+1,The Samsung Galaxy phone I ordered was defective. Poor build quality and the screen cracked after one day. Very disappointed with Amazon's service.,negative,negative,0.75,Galaxy,"Amazon, Samsung",2
+2,Sony WH-1000XM4 headphones are incredible! The noise cancellation works perfectly and the sound quality from Sony is top-notch.,positive,neutral,0.5,,"Sony WH-1000XM4, Sony",2
+3,Nike Air Max shoes were uncomfortable and overpriced. The Adidas version was much better. Would not recommend this Nike product.,negative,positive,0.3333333333333333,,"Nike Air Max, Adidas, Nike",3
+4,The MacBook Pro from Apple exceeded my expectations. Fast processor and great display. Perfect for work and entertainment!,positive,positive,0.6666666666666666,"The MacBook Pro, Macbook",Apple,2
+5,Dell laptop arrived damaged. Customer service was unhelpful and the product quality was poor. Waste of money.,negative,negative,0.6666666666666666,,Dell,0
+6,Amazon Echo Dot with Alexa is so convenient! The voice recognition is accurate and it integrates well with my smart home devices.,positive,neutral,0.5,"Echo Dot, Echo","Amazon, Alexa",3
+7,The Kindle Fire tablet from Amazon was slow and buggy. Battery died quickly and apps crashed frequently.,negative,negative,0.6666666666666666,Kindle,Amazon,1
+8,Love my new Canon EOS camera! The image quality is professional-grade and the autofocus is lightning fast.,positive,negative,0.3333333333333333,,"EOS, Canon",1
+9,Microsoft Surface Pro was overheating constantly. Poor thermal design and customer support was terrible.,negative,negative,0.5,"Microsoft Surface Pro, Surface",Microsoft,1
